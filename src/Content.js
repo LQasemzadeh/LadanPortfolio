@@ -12,8 +12,8 @@ import services_logo1 from "./assets/images/Services/logo1.png";
 import services_logo2 from "./assets/images/Services/logo2.png";
 import services_logo3 from "./assets/images/Services/logo3.png";
 
-import project1 from "./assets/images/projects/img1.png";
-import project2 from "./assets/images/projects/img2.png";
+import project1 from "./assets/images/projects/steelarvin.png";
+import project2 from "./assets/images/projects/setaregan.png";
 import project3 from "./assets/images/projects/img3.png";
 import person_project from "./assets/images/projects/person.png";
 
@@ -117,17 +117,17 @@ export const content = {
     service_content: [
       {
         title: "Web Designer",
-        para: "In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document elying on mean",
+        para: "I expertise in web design, specifically using technologies such as React, Tailwind, and Material UI.",
         logo: services_logo1,
       },
       {
         title: "UX / UI Designing",
-        para: "In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document elying on mean",
+        para: "I possess strong skills in UX/UI design, enabling me to create intuitive and visually appealing interfaces that prioritize user experience.",
         logo: services_logo2,
       },
       {
         title: "PhotoShop Editing",
-        para: "In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document elying on mean",
+        para: "With my Photoshop skills, I can bring your vision to life and produce high-quality edits that surpass your expectations.",
         logo: services_logo3,
       },
     ],
@@ -138,11 +138,11 @@ export const content = {
     image: person_project,
     project_content: [
       {
-        title: "Gym Website",
+        title: "Industrial Company Website",
         image: project1,
       },
       {
-        title: "Social Media web",
+        title: "Computer Firm Website",
         image: project2,
       },
       {

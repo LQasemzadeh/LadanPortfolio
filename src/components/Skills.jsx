@@ -46,11 +46,7 @@ const Skills = () => {
       </div>
       <br />
       <ul className="list-decimal px-4 font-Poppins sm:text-sm text-xs !leading-7">
-        <li>hi there</li>
-        <li>hi there</li>
-        <li>hi there</li>
-        <li>hi there</li>
-        <li>hi there</li>
+        <li>http://steelarvintav.com/</li>
       </ul>
       <br />
       <div className="flex justify-end">
