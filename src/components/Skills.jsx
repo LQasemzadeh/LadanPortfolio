@@ -35,7 +35,7 @@ const Skills = () => {
     setIsOpen(false);
   }
 
-  return <section className="min-h-fit bg-bg_light_primary">
+  return <section className="min-h-fit bg-bg_light_primary" id="skills">
     {/* Modal */}
     <Modal isOpen={modalIsOpen}
            onRequestClose={closeModal}

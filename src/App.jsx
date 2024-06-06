@@ -6,10 +6,12 @@ import Projects from "./components/Projects";
 import Testimonials from "./components/Testimonials";
 import Hireme from "./components/Hireme";
 import Contact from "./components/Contact";
+import Navbar from "./Layouts/Navbar.jsx";
 
 const App = () => {
   return (
     <div className="">
+        <Navbar />
       <Hero />
       <Skills />
       <Service />
