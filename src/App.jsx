@@ -17,6 +17,10 @@ const App = () => {
       <Testimonials />
       <Hireme />
       <Contact />
+        <footer className="py-3 text-center">
+            <h6 className="mb-3">Ladan Qasemzadeh</h6>
+            <p>© All CopyRights Reserved 2024</p>
+        </footer>
     </div>
   );
 };
