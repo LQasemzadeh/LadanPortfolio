@@ -80,36 +80,30 @@ export const content = {
     skills_content: [
       {
         name: "react js",
-        para: "Lorem ipsum text  dummy",
         logo: reactjs,
       },
       {
         name: "tailwind css",
-        para: "Lorem ipsum text  dummy",
         logo: tailwind,
       },
       {
         name: "material UI",
-        para: "Lorem ipsum text  dummy",
         logo: materialUI,
       },
       {
         name: "adobe photoshop",
-        para: "Lorem ipsum text  dummy",
         logo: ps,
       },
       {
         name: "adobe illustrator",
-        para: "Lorem ipsum text  dummy",
         logo: Ai,
       },
       {
         name: "adobe afterEffect",
-        para: "Lorem ipsum text  dummy",
         logo: Ae,
       },
     ],
-    icon: MdArrowForward,
+
   },
   services: {
     title: "Services",
@@ -138,15 +132,18 @@ export const content = {
     image: person_project,
     project_content: [
       {
-        title: "Industrial Company Website",
+        title: "https://steelarvintav.com/",
+        para: "UX/UI Design, React.js, Tailwindcss",
         image: project1,
       },
       {
-        title: "Computer Firm Website",
+        title: "https://setaregan.co/",
+        para: "UX/UI Design, Graphic Design",
         image: project2,
       },
       {
-        title: "Creative Website",
+        title: "@setareganrose(social media)",
+        para: "Photoshop, After Effects, Illustrator",
         image: project3,
       },
     ],
