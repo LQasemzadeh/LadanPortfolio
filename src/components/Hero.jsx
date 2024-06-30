@@ -1,6 +1,6 @@
-// import content
-import { useEffect } from "react";
 import { content } from "../Content";
+
+
 const Hero = () => {
   const { hero } = content;
 

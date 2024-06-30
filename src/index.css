@@ -66,3 +66,6 @@
 .swiper-pagination-bullet {
   @apply w-3 h-3 bg-dark_primary;
 }
+.slick-slide > div {
+  margin: 0 10px;
+}
