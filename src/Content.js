@@ -21,8 +21,8 @@ import steelarvin from "./assets/images/Testimonials/steelarvin.png";
 import setaregan from "./assets/images/Testimonials/setaregan.png";
 
 
-import Hireme_person from "./assets/images/Hireme/person.png";
-import Hireme_person2 from "./assets/images/Hireme/person2.png";
+import Hireme_person from "./assets/images/Hireme/ladan2 copy.webp";
+import Hireme_person2 from "./assets/images/Hireme/ladan2 copy.webp";
 
 // import icons from react-icons
 import { GrMail } from "react-icons/gr";
