@@ -48,14 +48,14 @@ const Projects = () => {
         infinite: true,
         speed: 500,
         arrows: false,
-        slidesToShow: 3,
+        slidesToShow: 2,
         slidesToScroll: 1,
         responsive: [
             {
                 breakpoint: 1023,
                 settings: {
-                    slidesToShow: 3,
-                    slidesToScroll: 3,
+                    slidesToShow: 2,
+                    slidesToScroll: 2,
                     infinite: true,
                     dots: true,
                 },
@@ -63,8 +63,8 @@ const Projects = () => {
             {
                 breakpoint: 768,
                 settings: {
-                    slidesToShow: 2,
-                    slidesToScroll: 2,
+                    slidesToShow: 1,
+                    slidesToScroll: 1,
                     initialSlide: 2,
                 },
             },
@@ -89,7 +89,7 @@ const Projects = () => {
           </div>
 
           <div data-aos="fade-up" className="mt-5">
-              <div className="flex  mb-3 gap-5 mt-4 lg:mt-0">
+              <div className="flex mb-3 gap-5 mt-4 lg:mt-0">
                   <button
                       data-aos="fade-down"
                       className="bg-dark_primary text-gray px-4 py-2 rounded-lg active:bg-gray active:text-dark_primary"
