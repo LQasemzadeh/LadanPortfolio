@@ -87,11 +87,13 @@ const Projects = () => {
           </div>
 
           <div data-aos="fade-up" className="mt-5">
-              <style jsx>{`
-                  .slick-next:before, .slick-prev:before {
-                      color: gray !important;
-                  }
-              `}</style>
+              <style>
+                  {`  
+        .slick-next:before, .slick-prev:before {  
+            color: gray !important;  
+        }  
+    `}
+              </style>
 
               <Slider ref={slider} {...settings}>
                   {data.map((e, index) => (
