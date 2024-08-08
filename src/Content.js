@@ -181,11 +181,6 @@ export const content = {
         link: "mailto:lqasemzadeh@gmail.com",
       },
       {
-        text: "+989176778724",
-        icon: MdCall,
-        link: "https://wa.me/1234567890",
-      },
-      {
         text: "LQasemzadeh",
         icon: FaGithub,
         link: "https://github.com/LQasemzadeh",
