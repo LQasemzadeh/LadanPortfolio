@@ -4,7 +4,7 @@ import "slick-carousel/slick/slick.css";
 import "slick-carousel/slick/slick-theme.css";
 import "../App.css";
 import steelarvin from "../assets/images/Testimonials/steelarvin.png";
-import setaregan from "../assets/images/Testimonials/setaregan.png";
+import setaregan from "../assets/images/Testimonials/LogoSetaregan.png";
 import ITtower from "../../src/assets/images/Testimonials/SITT.png"
 
 

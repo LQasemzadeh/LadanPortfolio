@@ -19,7 +19,7 @@ import project3 from "../src/assets/images/projects/img3.png";
 import person_project from "../src/assets/images/projects/ladan2.webp";
 
 import steelarvin from "./assets/images/Testimonials/steelarvin.png";
-import setaregan from "./assets/images/Testimonials/setaregan.png";
+import setaregan from "./assets/images/Testimonials/LogoSetaregan.png";
 
 
 import Hireme_person from "./assets/images/Hireme/ladan2 copy.webp";
