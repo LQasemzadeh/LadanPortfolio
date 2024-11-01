@@ -22,11 +22,11 @@ const Projects = () => {
     const data = [
         {
             img: project1,
-            name: "UX/UI Design, React.js, Tailwindcss",
+            name: "Front-End Developer, React.js, Tailwindcss",
         },
         {
             img: project4,
-            name: "UX/UI Design, React.js, Tailwindcss",
+            name: "Front-End Developer, React.js, Tailwindcss",
         },
         {
             img: project2,

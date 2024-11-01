@@ -22,7 +22,7 @@ const Hireme = () => {
         sm:min-w-[22rem]">
           <p className="leading-7">{Hireme.para}</p>
           <br/>
-          <a href="tel:00989176778724">
+          <a href="tel:004915734651375">
             <button className="btn bg-dark_primary text-white">{Hireme.btnText}</button>
           </a>
 

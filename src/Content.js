@@ -7,6 +7,7 @@ import ps from "./assets/images/Skills/ps.png";
 import reactjs from "./assets/images/Skills/react.png";
 import tailwind from "./assets/images/Skills/tailwind.png";
 import materialUI from "./assets/images/Skills/materialUI.png";
+import Next from "./assets/images/Skills/Next.webp";
 
 import services_logo1 from "./assets/images/Services/logo1.png";
 import services_logo2 from "./assets/images/Services/logo2.png";
@@ -57,7 +58,7 @@ export const content = {
     },
   ],
   hero: {
-    title: "UX/UI Designer",
+    title: "Front-End Developer",
     firstName: "Ladan",
     LastName: "Qasemzadeh",
     btnText: "Hire Me",
@@ -86,6 +87,10 @@ export const content = {
         logo: tailwind,
       },
       {
+        name: "Next.js",
+        logo: Next,
+      },
+      {
         name: "material UI",
         logo: materialUI,
       },
@@ -97,10 +102,6 @@ export const content = {
         name: "adobe illustrator",
         logo: Ai,
       },
-      {
-        name: "adobe afterEffect",
-        logo: Ae,
-      },
     ],
 
   },
@@ -109,13 +110,13 @@ export const content = {
     subtitle: "WHAT I OFFER",
     service_content: [
       {
-        title: "Web Designer",
-        para: "I expertise in web design, specifically using technologies such as React, Tailwind, and Material UI.",
+        title: "Front-End Developer",
+        para: "As a front-end developer, I am dedicated to optimizing website performance and ensuring a seamless user experience across various devices and browsers.",
         logo: services_logo1,
       },
       {
-        title: "UX / UI Designing",
-        para: "I possess strong skills in UX/UI design, enabling me to create intuitive and visually appealing interfaces that prioritize user experience.",
+        title: "UX / UI Developer",
+        para: "My expertise lies in blending aesthetic appeal with functionality to ensure that users can easily navigate and interact with digital products.",
         logo: services_logo2,
       },
       {
@@ -132,12 +133,12 @@ export const content = {
     project_content: [
       {
         title: "https://steelarvintav.com/",
-        para: "UX/UI Design, React.js, Tailwindcss",
+        para: "Front-End Developer, React.js, Tailwindcss",
         image: project1,
       },
       {
         title: "https://setaregan.co/",
-        para: "UX/UI Design, Graphic Design",
+        para: "UX/UI Developer, Graphic Design",
         image: project2,
       },
       {
@@ -168,7 +169,7 @@ export const content = {
     subtitle: "FOR YOUR PROJECTS",
     image1: Hireme_person,
     image2: Hireme_person2,
-    para: "If you need a UX/UI designer or a web designer, please contact me.",
+    para: "If you need a Front-End Developer please contact me.",
     btnText: "Hire Me",
   },
   Contact: {
