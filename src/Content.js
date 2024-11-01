@@ -14,7 +14,7 @@ import services_logo2 from "./assets/images/Services/logo2.png";
 import services_logo3 from "./assets/images/Services/logo3.png";
 
 import project1 from "../src/assets/images/Projects/steelarvin.png";
-import project2 from "../src/assets/images/projects/setaregan.png";
+import project2 from "./assets/images/projects/setaregan.png";
 import project3 from "../src/assets/images/projects/img3.png";
 import person_project from "../src/assets/images/projects/ladan2.webp";
 
