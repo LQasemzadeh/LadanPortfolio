@@ -26,35 +26,43 @@ const Projects = () => {
     const data = [
         {
             img: project1,
-            name: "Front-End Developer, React.js, Tailwindcss",
+            name: "SteelArvinTav",
+            link: "https://steelarvintav.com/",
         },
         {
             img: project4,
-            name: "Front-End Developer, React.js, Tailwindcss",
+            name: "Shiraz IT Tower",
+            link: "https://siittir.netlify.app/",
         },
         {
             img: project2,
-            name: "UX/UI Design, Graphic Design",
+            name: "Setaregan",
+            link: "https://setaregan.co/",
         },
         {
             img: project3,
-            name: "Photoshop, After Effects, Illustrator",
+            name: "FaFa IT",
+            link: "https://fafait.net/",
         },
         {
             img: project5,
-            name: "Photoshop, After Effects, Illustrator",
+            name: "Matin",
+            link: "https://www.matin.co/",
         },
         {
             img: project6,
-            name: "Photoshop, After Effects, Illustrator",
+            name: "AI@PFH",
+            link: "https://ai-pfh.netlify.app/",
         },
         {
             img: project7,
-            name: "Photoshop, After Effects, Illustrator",
+            name: "No Meat Factory",
+            link: "https://nomeatfactory.netlify.app/",
         },
         {
             img: project8,
-            name: "Photoshop, After Effects, Illustrator",
+            name: "Markazi",
+            link: "https://www.markazi.co/",
         },
     ];
 
@@ -130,7 +138,14 @@ const Projects = () => {
                           </div>
 
                           <div className="flex flex-col justify-center items-center">
-                              <h1 className="font-semibold text-base pt-4">{e.name}</h1>
+                              <a
+                                  href={e.link}
+                                  target="_blank"
+                                  rel="noopener noreferrer"
+                                  className="font-semibold text-base pt-4 text-blue-600 hover:underline"
+                              >
+                                  {e.name}
+                              </a>
                           </div>
                       </div>
                   ))}
