@@ -1,12 +1,11 @@
 // import images
 import Hero_person from "./assets/images/Hero/ladan1.webp";
 
-import Ae from "./assets/images/Skills/Ae.png";
-import Ai from "./assets/images/Skills/Ai.png";
-import ps from "./assets/images/Skills/ps.png";
+import php from "./assets/images/skills/Php-logo.png";
+import JS from "./assets/images/Skills/JavaScript-logo.png";
+import TS from "./assets/images/Skills/Typescript_logo_2020.svg.png";
 import reactjs from "./assets/images/Skills/react.png";
 import tailwind from "./assets/images/Skills/tailwind.png";
-import materialUI from "./assets/images/Skills/materialUI.png";
 import Next from "./assets/images/Skills/Next.webp";
 
 import services_logo1 from "./assets/images/Services/logo1.png";
@@ -66,7 +65,7 @@ export const content = {
     hero_content: [
       {
         count: "4+",
-        text: "Years of Experinse in Web development",
+        text: "Years of experience in Web development",
       },
       {
         count: "20+",
@@ -91,16 +90,16 @@ export const content = {
         logo: Next,
       },
       {
-        name: "material UI",
-        logo: materialUI,
+        name: "JavaScript",
+        logo: JS,
       },
       {
-        name: "adobe photoshop",
-        logo: ps,
+        name: "TypeScript",
+        logo: TS,
       },
       {
-        name: "adobe illustrator",
-        logo: Ai,
+        name: "php",
+        logo: php,
       },
     ],
 

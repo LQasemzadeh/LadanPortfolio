@@ -14,7 +14,7 @@ const Testimonials = () => {
 
     const { Testimonials } = content;
     const settings = {
-        dots: true,
+        dots: false,
         infinite: true,
         speed: 2000,
         slidesToShow: 3,
