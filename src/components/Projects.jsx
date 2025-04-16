@@ -7,8 +7,12 @@ import 'swiper/css';
 import 'swiper/css/pagination';
 import project1 from "../../src/assets/images/Projects/steelarvin.png";
 import project2 from "../../src/assets/images/Projects/setaregan.png";
-import project3 from "../../src/assets/images/Projects/img3.png";
+import project3 from "../../src/assets/images/Projects/FaFa.png";
 import project4 from "../../src/assets/images/Projects/ITtower.webp";
+import project5 from "../../src/assets/images/Projects/Matin.png";
+import project6 from "../../src/assets/images/Projects/AiPfh.png";
+import project7 from "../../src/assets/images/Projects/NoMeat.png";
+import project8 from "../../src/assets/images/Projects/Markazi.png";
 
 
 
@@ -34,6 +38,22 @@ const Projects = () => {
         },
         {
             img: project3,
+            name: "Photoshop, After Effects, Illustrator",
+        },
+        {
+            img: project5,
+            name: "Photoshop, After Effects, Illustrator",
+        },
+        {
+            img: project6,
+            name: "Photoshop, After Effects, Illustrator",
+        },
+        {
+            img: project7,
+            name: "Photoshop, After Effects, Illustrator",
+        },
+        {
+            img: project8,
             name: "Photoshop, After Effects, Illustrator",
         },
     ];
