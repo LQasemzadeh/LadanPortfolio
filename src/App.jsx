@@ -4,7 +4,6 @@ import Navbar from "./Layouts/Navbar";
 import Skills from "./components/Skills";
 import Projects from "./components/Projects";
 import Testimonials from "./components/Testimonials";
-import Hireme from "./components/Hireme";
 import Contact from "./components/Contact";
 import { useEffect } from "react";
 // Animation package
@@ -30,7 +29,6 @@ const App = () => {
       <Skills />
       <Projects />
       <Testimonials />
-      <Hireme />
       <Contact />
         <footer className="py-3 text-center">
             <h6 className="mb-3">Ladan Qasemzadeh</h6>
