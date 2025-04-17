@@ -18,8 +18,6 @@ import steelarvin from "./assets/images/Testimonials/steelarvin.png";
 import setaregan from "./assets/images/Testimonials/LogoSetaregan.png";
 
 
-import Hireme_person from "./assets/images/Hireme/ladan2 copy.webp";
-import Hireme_person2 from "./assets/images/Hireme/ladan2 copy.webp";
 
 // import icons from react-icons
 import { FaLinkedin } from "react-icons/fa";
@@ -140,14 +138,7 @@ export const content = {
       },
     ],
   },
-  Hireme: {
-    title: "Hire Me",
-    subtitle: "FOR YOUR PROJECTS",
-    image1: Hireme_person,
-    image2: Hireme_person2,
-    para: "If you need a Front-End Developer please contact me.",
-    btnText: "Hire Me",
-  },
+
   Contact: {
     title: "Contect Me",
     subtitle: "GET IN TOUCH",
