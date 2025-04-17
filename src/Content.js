@@ -8,9 +8,6 @@ import reactjs from "./assets/images/Skills/react.png";
 import tailwind from "./assets/images/Skills/tailwind.png";
 import Next from "./assets/images/Skills/Next.webp";
 
-import services_logo1 from "./assets/images/Services/logo1.png";
-import services_logo2 from "./assets/images/Services/logo2.png";
-import services_logo3 from "./assets/images/Services/logo3.png";
 
 import project1 from "./assets/images/Projects/steelarvin.png";
 import project2 from "./assets/images/Projects/setaregan.png";
@@ -25,6 +22,7 @@ import Hireme_person from "./assets/images/Hireme/ladan2 copy.webp";
 import Hireme_person2 from "./assets/images/Hireme/ladan2 copy.webp";
 
 // import icons from react-icons
+import { FaLinkedin } from "react-icons/fa";
 import { GrMail } from "react-icons/gr";
 import { MdCall } from "react-icons/md";
 import { FaGithub } from 'react-icons/fa';
@@ -57,7 +55,7 @@ export const content = {
     },
   ],
   hero: {
-    title: "Front-End Developer",
+    title: "Developer",
     firstName: "Ladan",
     LastName: "Qasemzadeh",
     btnText: "Hire Me",
@@ -103,27 +101,6 @@ export const content = {
       },
     ],
 
-  },
-  services: {
-    title: "Services",
-    subtitle: "WHAT I OFFER",
-    service_content: [
-      {
-        title: "Front-End Developer",
-        para: "As a front-end developer, I am dedicated to optimizing website performance and ensuring a seamless user experience across various devices and browsers.",
-        logo: services_logo1,
-      },
-      {
-        title: "UX / UI Developer",
-        para: "My expertise lies in blending aesthetic appeal with functionality to ensure that users can easily navigate and interact with digital products.",
-        logo: services_logo2,
-      },
-      {
-        title: "PhotoShop Editing",
-        para: "With my Photoshop skills, I can bring your vision to life and produce high-quality edits that surpass your expectations.",
-        logo: services_logo3,
-      },
-    ],
   },
   Projects: {
     title: "Projects",
@@ -184,6 +161,15 @@ export const content = {
         text: "LQasemzadeh",
         icon: FaGithub,
         link: "https://github.com/LQasemzadeh",
+      },
+      { text: "LadanQasemzadeh",
+        icon: FaLinkedin,
+        link: "https://www.linkedin.com/in/ladanqasemzadeh/",
+      },
+      {
+        text: "+4915734651375",
+        icon: MdCall,
+        link: "tel:+4915734651375",
       },
     ],
   },
