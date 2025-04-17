@@ -7,7 +7,7 @@ import 'swiper/css';
 import 'swiper/css/pagination';
 import project1 from "../../src/assets/images/Projects/steelarvin.png";
 import project2 from "../../src/assets/images/Projects/setaregan.png";
-import project3 from "../../src/assets/images/Projects/FaFa.png";
+import project3 from "../../src/assets/images/Projects/FaFa1.png";
 import project4 from "../../src/assets/images/Projects/ITtower.webp";
 import project5 from "../../src/assets/images/Projects/Matin.png";
 import project6 from "../../src/assets/images/Projects/AiPfh.png";
