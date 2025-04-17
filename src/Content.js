@@ -1,7 +1,7 @@
 // import images
 import Hero_person from "./assets/images/Hero/ladan1.webp";
 
-import php from "./assets/images/skills/images.jpeg";
+import php from "./assets/images/skills/php5.png";
 import JS from "./assets/images/Skills/JavaScript-logo.png";
 import TS from "./assets/images/Skills/Typescript_logo_2020.svg.png";
 import reactjs from "./assets/images/Skills/react.png";
