@@ -11,7 +11,7 @@ import Next from "./assets/images/Skills/Next.webp";
 
 import project1 from "./assets/images/Projects/steelarvin.png";
 import project2 from "./assets/images/Projects/setaregan.png";
-import project3 from "./assets/images/projects/FaFa1.png";
+import project3 from "./assets/images/Projects/FaFa1.png";
 import person_project from "./assets/images/projects/ladan2.webp";
 
 import steelarvin from "./assets/images/Testimonials/steelarvin.png";
