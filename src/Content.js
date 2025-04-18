@@ -9,9 +9,6 @@ import tailwind from "./assets/images/Skills/tailwind.png";
 import Next from "./assets/images/Skills/Next.webp";
 
 
-import project1 from "./assets/images/Projects/steelarvin.png";
-import project2 from "./assets/images/Projects/setaregan.png";
-import project3 from "./assets/images/Projects/FaFa1.png";
 
 import steelarvin from "./assets/images/Testimonials/steelarvin.png";
 import setaregan from "./assets/images/Testimonials/LogoSetaregan.png";
@@ -102,24 +99,6 @@ export const content = {
   Projects: {
     title: "Projects",
     subtitle: "MY CREATION",
-    image: person_project,
-    project_content: [
-      {
-        title: "https://steelarvintav.com/",
-        para: "Front-End Developer, React.js, Tailwindcss",
-        image: project1,
-      },
-      {
-        title: "https://setaregan.co/",
-        para: "UX/UI Developer, Graphic Design",
-        image: project2,
-      },
-      {
-        title: "@setareganrose(social media)",
-        para: "Photoshop, After Effects, Illustrator",
-        image: project3,
-      },
-    ],
   },
   Testimonials: {
     title: "Testimonials",
